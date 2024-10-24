@@ -1,0 +1,27 @@
+.about {
+    padding: 30px;
+    background-color: #f5f7f8;
+}
+
+.about .box {
+    width: 400px;
+    padding: 40px;
+    background-color: white;
+    border: 1px solid #e0e5e7;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about h1 {
+    color: darkcyan;
+    text-align: center;
+}
+.about h1{
+    color: darkcyan;
+}
+
+.about h5 {
+    color: #333;
+    text-align: center;
+}
